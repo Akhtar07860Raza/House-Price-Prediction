@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large ML files
+*.pkl
+*.csv
